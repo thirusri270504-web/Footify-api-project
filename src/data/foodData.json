@@ -1,0 +1,1159 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Biryani",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvgVP0b6ru5IXTZ2_va1soKGGpaZfA7Yf1L7Aw-C1zSuivWoSOZ0RKgL4&s=10"
+    },
+    {
+      "id": 2,
+      "name": "Rice",
+      "image": "https://media.istockphoto.com/id/491090528/photo/cooked-rice.jpg?s=612x612&w=0&k=20&c=WNeDEUEioyyk6FQZQrVMrtFMDVdtbwtK951eZ8q5FNY="
+    },
+    {
+      "id": 3,
+      "name": "Dosa",
+      "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFzYWxhJTIwZG9zYXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 4,
+      "name": "Idli & Vada",
+      "image": "https://loremflickr.com/640/480/idli,vada"
+    },
+    {
+      "id": 5,
+      "name": "Chicken",
+      "image": "https://loremflickr.com/640/480/indian,chicken"
+    },
+    {
+      "id": 6,
+      "name": "Mutton",
+      "image": "https://eastindianrecipes.net/wp-content/uploads/2022/11/Mutton-Curry-Country-Captain1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Seafood",
+      "image": "https://img.magnific.com/free-photo/grilled-fish-with-vegetable-salad-onion-sumac-sprinkles_140725-10554.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "id": 8,
+      "name": "Vegetarian",
+      "image": "https://media.istockphoto.com/id/588595864/photo/steaming-mixed-vegetables-in-the-wok-asian-style-cooking.jpg?s=612x612&w=0&k=20&c=NZWe4QUwFmEqPAwHa3s0u3Zak6JjlRm36gMgmXx8roA="
+    },
+    {
+      "id": 9,
+      "name": "Street Food",
+      "image": "https://www.tilda.com/wp-content/uploads/2024/07/indian-street-food.webp"
+    },
+    {
+      "id": 10,
+      "name": "Desserts",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTySxkx0HWpomtcrPK5nnLVinvjoi4ULDPONcJIbsT63A&s=10"
+    }
+  ],
+
+  "foods": [
+    {
+      "id": 1,
+      "name": "Chicken Biryani",
+      "category": "Biryani",
+      "price": 220,
+      "rating": 4.9,
+      "image": "https://www.chenabgourmet.com/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-29-at-2.37.55-PM.jpeg",
+      "description": "Aromatic basmati rice cooked with tender chicken and traditional Indian spices.",
+      "customization": true
+    },
+    {
+      "id": 2,
+      "name": "Mutton Biryani",
+      "category": "Biryani",
+      "price": 280,
+      "rating": 4.9,
+      "image": "https://i.pinimg.com/736x/6c/f4/83/6cf48394168034cc994d08137f8fbd0b.jpg",
+      "description": "Rich and flavorful mutton biryani prepared with fragrant basmati rice.",
+      "customization": true
+    },
+    {
+      "id": 3,
+      "name": "Egg Biryani",
+      "category": "Biryani",
+      "price": 180,
+      "rating": 4.7,
+      "image": "https://static.toiimg.com/thumb/52397749.cms?imgsize=299414&width=800&height=800",
+      "description": "Spiced basmati rice served with boiled eggs and aromatic biryani masala.",
+      "customization": true
+    },
+    {
+      "id": 4,
+      "name": "Vegetable Biryani",
+      "category": "Biryani",
+      "price": 170,
+      "rating": 4.6,
+      "image": "https://i.ytimg.com/vi/JqP4wSWsYr4/maxresdefault.jpg",
+      "description": "Fragrant basmati rice cooked with fresh vegetables and Indian spices.",
+      "customization": true
+    },
+    {
+      "id": 5,
+      "name": "Hyderabadi Biryani",
+      "category": "Biryani",
+      "price": 250,
+      "rating": 4.9,
+      "image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_960,w_960//InstamartAssets/hyderabadi_biryani%20(2).webp",
+      "description": "Authentic-style biryani prepared with aromatic spices and tender meat.",
+      "customization": true
+    },
+    {
+      "id": 6,
+      "name": "Ambur Biryani",
+      "category": "Biryani",
+      "price": 240,
+      "rating": 4.8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8wCxzv2TMwP9X6KfBhsbvE_t8eK7r4sXvec2zb2qVdm6B2Gcyx3BAp8&s=10",
+      "description": "South Indian style biryani known for its flavorful rice and spicy meat.",
+      "customization": true
+    },
+    {
+      "id": 7,
+      "name": "Dindigul Biryani",
+      "category": "Biryani",
+      "price": 240,
+      "rating": 4.8,
+      "image": "https://bestrecipesofindia.com/wp-content/uploads/2025/03/IMG_3439-scaled.jpg",
+      "description": "Tamil Nadu style biryani prepared with aromatic spices and tender chicken.",
+      "customization": true
+    },
+    {
+      "id": 8,
+      "name": "Kolkata Biryani",
+      "category": "Biryani",
+      "price": 230,
+      "rating": 4.7,
+      "image": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/09/Kolkata-chicken-biryani.jpg",
+      "description": "Mild and aromatic biryani served with potato and flavorful meat.",
+      "customization": true
+    },
+    {
+      "id": 9,
+      "name": "Malabar Biryani",
+      "category": "Biryani",
+      "price": 260,
+      "rating": 4.8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4SjnsAvIi9CcvDzciVpSpGYrt44FCiP5kCF4XL4w3OhdynV8lsyBIA-I0&s=10",
+      "description": "Kerala-style biryani prepared with fragrant rice and rich spices.",
+      "customization": true
+    },
+    {
+      "id": 10,
+      "name": "Paneer Biryani",
+      "category": "Biryani",
+      "price": 190,
+      "rating": 4.7,
+      "image": "https://loremflickr.com/640/480/paneer,biryani",
+      "description": "Delicious paneer biryani cooked with aromatic rice and Indian spices.",
+      "customization": true
+    },
+
+    {
+      "id": 11,
+      "name": "Chicken Fried Rice",
+      "category": "Rice",
+      "price": 180,
+      "rating": 4.8,
+      "image": "https://www.tilda.com/en-au/wp-content/uploads/sites/11/2021/05/chicken-fried-rice-low-res-2-1.png",
+      "description": "Flavorful fried rice tossed with chicken, vegetables and egg.",
+      "customization": true
+    },
+    {
+      "id": 12,
+      "name": "Egg Fried Rice",
+      "category": "Rice",
+      "price": 150,
+      "rating": 4.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyM6xxZHLS64LMgGLb-jgiGRD1Y1AlB0cP0UFH5WYdlAU3CrC0HnqkTTQk&s=10",
+      "description": "Fried rice prepared with scrambled egg and fresh vegetables.",
+      "customization": true
+    },
+    {
+      "id": 13,
+      "name": "Vegetable Fried Rice",
+      "category": "Rice",
+      "price": 140,
+      "rating": 4.6,
+      "image": "https://veryveganish.com/wp-content/uploads/2024/06/Featured-Vegetable-Fried-Rice-no-egg-oil-free-1.jpg",
+      "description": "Classic fried rice loaded with fresh vegetables and aromatic seasoning.",
+      "customization": true
+    },
+    {
+      "id": 14,
+      "name": "Jeera Rice",
+      "category": "Rice",
+      "price": 130,
+      "rating": 4.5,
+      "image": "https://loremflickr.com/640/480/jeera,rice",
+      "description": "Basmati rice flavored with roasted cumin seeds and mild spices.",
+      "customization": true
+    },
+    {
+      "id": 15,
+      "name": "Ghee Rice",
+      "category": "Rice",
+      "price": 150,
+      "rating": 4.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaYaY65fIziZa4tAc5BYaYYm7a-1CW6WyTrGg-dj9E6vvShQoqbIQA0ddj&s=10",
+      "description": "Fragrant basmati rice cooked with ghee and aromatic spices.",
+      "customization": true
+    },
+    {
+      "id": 16,
+      "name": "Lemon Rice",
+      "category": "Rice",
+      "price": 120,
+      "rating": 4.5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTMEdTh94LJ_pavByNCV3lKiAmI872_YmfW4VdusDSl7KHL9DWIJAcO8O&s=10",
+      "description": "South Indian rice flavored with lemon, curry leaves and peanuts.",
+      "customization": true
+    },
+    {
+      "id": 17,
+      "name": "Curd Rice",
+      "category": "Rice",
+      "price": 110,
+      "rating": 4.5,
+      "image": "https://loremflickr.com/640/480/curd,rice",
+      "description": "Cooling South Indian curd rice topped with traditional tempering.",
+      "customization": true
+    },
+    {
+      "id": 18,
+      "name": "Tomato Rice",
+      "category": "Rice",
+      "price": 120,
+      "rating": 4.5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhQplKJjuBuN3ek2udvTV1EByhyihg1VvplrM-nrzSuaMJ8YULi7bf1vE&s=10",
+      "description": "Tangy rice cooked with tomatoes, onions and South Indian spices.",
+      "customization": true
+    },
+    {
+      "id": 19,
+      "name": "Mushroom Rice",
+      "category": "Rice",
+      "price": 160,
+      "rating": 4.6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReCnE73gszg3G9jqpFyOy4T-Thnw-PId4vJMVAr99ha1urKuj2qC5m5KKc&s=10",
+      "description": "Aromatic rice prepared with mushrooms, herbs and Indian spices.",
+      "customization": true
+    },
+    {
+      "id": 20,
+      "name": "Coconut Rice",
+      "category": "Rice",
+      "price": 120,
+      "rating": 4.5,
+      "image": "https://flavorthemoments.com/wp-content/uploads/2023/08/coconut-rice-1.jpg",
+      "description": "South Indian coconut rice prepared with grated coconut and spices.",
+      "customization": true
+    },
+
+    {
+      "id": 21,
+      "name": "Masala Dosa",
+      "category": "Dosa",
+      "price": 100,
+      "rating": 4.8,
+      "image": "https://loremflickr.com/640/480/masala,dosa",
+      "description": "Crispy dosa filled with delicious spiced potato masala.",
+      "customization": true
+    },
+    {
+      "id": 22,
+      "name": "Plain Dosa",
+      "category": "Dosa",
+      "price": 80,
+      "rating": 4.6,
+      "image": "https://loremflickr.com/640/480/plain,dosa",
+      "description": "Crispy golden dosa served with chutney and sambar.",
+      "customization": true
+    },
+    {
+      "id": 23,
+      "name": "Onion Dosa",
+      "category": "Dosa",
+      "price": 110,
+      "rating": 4.7,
+      "image": "https://loremflickr.com/640/480/onion,dosa",
+      "description": "Crispy dosa topped with fresh onions and flavorful spices.",
+      "customization": true
+    },
+    {
+      "id": 24,
+      "name": "Cheese Dosa",
+      "category": "Dosa",
+      "price": 140,
+      "rating": 4.7,
+      "image": "https://i0.wp.com/www.foodfashionparty.com/wp-content/uploads/2017/09/chicken-dosa-5.jpg?ssl=1",
+      "description": "Crispy dosa filled with melted cheese and delicious seasoning.",
+      "customization": true
+    },
+    {
+      "id": 25,
+      "name": "Mysore Masala Dosa",
+      "category": "Dosa",
+      "price": 130,
+      "rating": 4.8,
+      "image": "https://static.toiimg.com/photo/118773709/118773709.jpg",
+      "description": "Spicy Mysore dosa spread with red chutney and potato masala.",
+      "customization": true
+    },
+    {
+      "id": 26,
+      "name": "Rava Dosa",
+      "category": "Dosa",
+      "price": 110,
+      "rating": 4.7,
+      "image": "https://loremflickr.com/640/480/rava,dosa",
+      "description": "Thin and crispy South Indian dosa made with semolina batter.",
+      "customization": true
+    },
+    {
+      "id": 27,
+      "name": "Podi Dosa",
+      "category": "Dosa",
+      "price": 110,
+      "rating": 4.7,
+      "image": "https://loremflickr.com/640/480/podi,dosa",
+      "description": "Crispy dosa topped with flavorful South Indian podi powder.",
+      "customization": true
+    },
+    {
+      "id": 28,
+      "name": "Paneer Dosa",
+      "category": "Dosa",
+      "price": 150,
+      "rating": 4.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREHdxNZNcx3Rfd5RwvAJYb_cs-C7u_q-z0BRq3G-_Hmg&s=10",
+      "description": "Crispy dosa stuffed with spicy paneer filling and vegetables.",
+      "customization": true
+    },
+    {
+      "id": 29,
+      "name": "Chicken Dosa",
+      "category": "Dosa",
+      "price": 180,
+      "rating": 4.8,
+      "image": "https://loremflickr.com/640/480/chicken,dosa",
+      "description": "South Indian dosa filled with flavorful spicy chicken masala.",
+      "customization": true
+    },
+    {
+      "id": 30,
+      "name": "Ghee Roast Dosa",
+      "category": "Dosa",
+      "price": 130,
+      "rating": 4.8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFBA_Txy6Y-OXWZvzR3GNJ66RP-mkYpVRN_5Bsv-OBSw&s=10",
+      "description": "Extra crispy dosa roasted with aromatic ghee.",
+      "customization": true
+    },
+
+    {
+      "id": 31,
+      "name": "Idli",
+      "category": "Idli & Vada",
+      "price": 70,
+      "rating": 4.6,
+      "image": "https://www.awesomecuisine.com/wp-content/uploads/2007/11/Idli-with-sambar-and-chutney.jpg",
+      "description": "Soft and fluffy steamed South Indian rice cakes served with sambar.",
+      "customization": true
+    },
+    {
+      "id": 32,
+      "name": "Rava Idli",
+      "category": "Idli & Vada",
+      "price": 80,
+      "rating": 4.6,
+      "image": "https://loremflickr.com/640/480/rava,idli",
+      "description": "Soft steamed idli made with semolina and mild spices.",
+      "customization": true
+    },
+    {
+      "id": 33,
+      "name": "Kanchipuram Idli",
+      "category": "Idli & Vada",
+      "price": 90,
+      "rating": 4.6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79nUcObJnR9dB0sALy6Yh-LoqkSOz6rCPAwUdDfGH7Q&s=10",
+      "description": "Traditional Tamil Nadu idli flavored with pepper and spices.",
+      "customization": true
+    },
+    {
+      "id": 34,
+      "name": "Medu Vada",
+      "category": "Idli & Vada",
+      "price": 80,
+      "rating": 4.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg4qht1G2_dbppnGZeHCe0rZv7DOn5h5eeYT2dOOHkVQ&s=10",
+      "description": "Crispy golden lentil fritters served with sambar and chutney.",
+      "customization": true
+    },
+    {
+      "id": 35,
+      "name": "Sambar Vada",
+      "category": "Idli & Vada",
+      "price": 100,
+      "rating": 4.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfvhuP1sbT98bBbraj0DNuvJtN2GadOUyICna_baDCMw&s=10",
+      "description": "Crispy vada soaked in flavorful hot sambar.",
+      "customization": true
+    },
+    {
+      "id": 36,
+      "name": "Curd Vada",
+      "category": "Idli & Vada",
+      "price": 100,
+      "rating": 4.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK-clBWHbuV9Z4r6YXpVd3zmmtViDA9ltDjVXIBKMEzQ&s=10",
+      "description": "Soft vada served with chilled seasoned yogurt and spices.",
+      "customization": true
+    },
+    {
+      "id": 37,
+      "name": "Podi Idli",
+      "category": "Idli & Vada",
+      "price": 90,
+      "rating": 4.6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5hOWCSX_HNsipXdZ5HtArlWzJCb123a-x_sVCuoLqLgp2s1PS3Rfj1HJg&s=10",
+      "description": "Soft idli tossed with spicy South Indian podi and ghee.",
+      "customization": true
+    },
+    {
+      "id": 38,
+      "name": "Fried Idli",
+      "category": "Idli & Vada",
+      "price": 100,
+      "rating": 4.6,
+      "image": "https://cookingfromheart.com/wp-content/uploads/2025/11/Masala-Idli-Recipe.jpg",
+      "description": "Crispy fried idli pieces tossed with vegetables and spices.",
+      "customization": true
+    },
+    {
+      "id": 39,
+      "name": "Masala Vada",
+      "category": "Idli & Vada",
+      "price": 80,
+      "rating": 4.7,
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2015/08/masala-vada-1.jpg",
+      "description": "Crunchy chana dal fritters flavored with onions and green chilli.",
+      "customization": true
+    },
+    {
+      "id": 40,
+      "name": "Thatte Idli",
+      "category": "Idli & Vada",
+      "price": 90,
+      "rating": 4.6,
+      "image": "https://cookingfromheart.com/wp-content/uploads/2022/01/Thatte-Idli-2.jpg",
+      "description": "Large soft Karnataka-style steamed idli served with chutney.",
+      "customization": true
+    },
+
+    {
+      "id": 41,
+      "name": "Butter Chicken",
+      "category": "Chicken",
+      "price": 240,
+      "rating": 4.9,
+      "image": "https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken--600x600.jpg",
+      "description": "Tender chicken cooked in a creamy tomato and butter gravy.",
+      "customization": true
+    },
+    {
+      "id": 42,
+      "name": "Chicken Tikka Masala",
+      "category": "Chicken",
+      "price": 230,
+      "rating": 4.8,
+      "image": "https://loremflickr.com/640/480/chicken,tikka,masala",
+      "description": "Grilled chicken pieces cooked in a rich spicy masala gravy.",
+      "customization": true
+    },
+    {
+      "id": 43,
+      "name": "Chicken Chettinad",
+      "category": "Chicken",
+      "price": 240,
+      "rating": 4.8,
+      "image": "https://loremflickr.com/640/480/chicken,chettinad",
+      "description": "Spicy Tamil Nadu chicken curry prepared with roasted spices.",
+      "customization": true
+    },
+    {
+      "id": 44,
+      "name": "Chicken 65",
+      "category": "Chicken",
+      "price": 190,
+      "rating": 4.8,
+      "image": "https://loremflickr.com/640/480/chicken,65",
+      "description": "Crispy deep-fried chicken marinated with South Indian spices.",
+      "customization": true
+    },
+    {
+      "id": 45,
+      "name": "Tandoori Chicken",
+      "category": "Chicken",
+      "price": 260,
+      "rating": 4.9,
+      "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2022/12/Tandoori-Chicken-Recipe.jpg",
+      "description": "Juicy chicken marinated in spices and roasted in a tandoor.",
+      "customization": true
+    },
+    {
+      "id": 46,
+      "name": "Chicken Korma",
+      "category": "Chicken",
+      "price": 230,
+      "rating": 4.7,
+      "image": "https://images.slurrp.com/prod/recipe_images/transcribe/main%20course/shahi-chicken-korma.webp?impolicy=slurrp-20210601&width=1200&height=675",
+      "description": "Tender chicken cooked in a rich creamy and mildly spiced gravy.",
+      "customization": true
+    },
+    {
+      "id": 47,
+      "name": "Chicken Do Pyaza",
+      "category": "Chicken",
+      "price": 220,
+      "rating": 4.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRbZQHZfDpLZ-V7z5LxwpfkR0gI6IO3eDSXb8N5EiUHHLMR0yCtT8ghEk&s=10",
+      "description": "Chicken cooked with plenty of onions and aromatic Indian spices.",
+      "customization": true
+    },
+    {
+      "id": 48,
+      "name": "Andhra Chicken",
+      "category": "Chicken",
+      "price": 230,
+      "rating": 4.8,
+      "image": "https://loremflickr.com/640/480/andhra,chicken",
+      "description": "Hot and spicy Andhra-style chicken prepared with fresh spices.",
+      "customization": true
+    },
+    {
+      "id": 49,
+      "name": "Kerala Chicken Curry",
+      "category": "Chicken",
+      "price": 220,
+      "rating": 4.8,
+      "image": "https://i0.wp.com/mariasmenu.com/wp-content/uploads/Kerala-Nadan-Chicken-Curry-Recipe.png?fit=600%2C768&ssl=1",
+      "description": "Kerala-style chicken curry cooked with coconut and aromatic spices.",
+      "customization": true
+    },
+    {
+      "id": 50,
+      "name": "Chicken Handi",
+      "category": "Chicken",
+      "price": 240,
+      "rating": 4.8,
+      "image": "https://orders.popskitchen.in/storage/2024/09/Screenshot_44.png",
+      "description": "Slow-cooked chicken prepared in a traditional handi with rich spices.",
+      "customization": true
+    },
+
+    {
+      "id": 51,
+      "name": "Mutton Curry",
+      "category": "Mutton",
+      "price": 280,
+      "rating": 4.8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToutWhHVf2Td8pzDf4nAZ1DG94OhBL-RGBNzb01IbHwg&s=10",
+      "description": "Tender mutton cooked in a rich and spicy Indian curry.",
+      "customization": true
+    },
+    {
+      "id": 52,
+      "name": "Mutton Rogan Josh",
+      "category": "Mutton",
+      "price": 300,
+      "rating": 4.9,
+      "image": "https://www.ruchikrandhap.com/wp-content/uploads/2021/09/Rogan-Josh_3.jpeg",
+      "description": "Classic Kashmiri mutton curry cooked with aromatic spices.",
+      "customization": true
+    },
+    {
+      "id": 53,
+      "name": "Mutton Korma",
+      "category": "Mutton",
+      "price": 290,
+      "rating": 4.8,
+      "image": "https://loremflickr.com/640/480/mutton,korma",
+      "description": "Tender mutton cooked in a creamy and flavorful gravy.",
+      "customization": true
+    },
+    {
+      "id": 54,
+      "name": "Mutton Chukka",
+      "category": "Mutton",
+      "price": 270,
+      "rating": 4.8,
+      "image": "https://foodieadamandcookieeve.wordpress.com/wp-content/uploads/2015/03/mutton-chukka-2-of-11.jpg",
+      "description": "South Indian dry mutton preparation with roasted spices.",
+      "customization": true
+    },
+    {
+      "id": 55,
+      "name": "Mutton Pepper Fry",
+      "category": "Mutton",
+      "price": 280,
+      "rating": 4.8,
+      "image": "https://loremflickr.com/640/480/mutton,pepper",
+      "description": "Spicy mutton preparation flavored with freshly ground black pepper.",
+      "customization": true
+    },
+    {
+      "id": 56,
+      "name": "Mutton Keema",
+      "category": "Mutton",
+      "price": 260,
+      "rating": 4.7,
+      "image": "https://loremflickr.com/640/480/mutton,keema",
+      "description": "Minced mutton cooked with peas, onions and aromatic spices.",
+      "customization": true
+    },
+    {
+      "id": 57,
+      "name": "Mutton Sukka",
+      "category": "Mutton",
+      "price": 280,
+      "rating": 4.8,
+      "image": "https://spiceindiaonline.com/wp-content/uploads/2018/11/Mutton-Chukka-Varuval-1.jpg",
+      "description": "Dry mutton preparation cooked with coconut and roasted spices.",
+      "customization": true
+    },
+    {
+      "id": 58,
+      "name": "Mutton Masala",
+      "category": "Mutton",
+      "price": 270,
+      "rating": 4.7,
+      "image": "https://loremflickr.com/640/480/mutton,masala",
+      "description": "Juicy mutton pieces cooked in a thick spicy masala.",
+      "customization": true
+    },
+    {
+      "id": 59,
+      "name": "Mutton Handi",
+      "category": "Mutton",
+      "price": 290,
+      "rating": 4.8,
+      "image": "https://img.magnific.com/free-psd/delicious-beef-stew-wooden-bowl-hearty-flavorful-meal_191095-80160.jpg?semt=ais_hybrid&w=740&q=80",
+      "description": "Slow-cooked mutton prepared with traditional Indian spices.",
+      "customization": true
+    },
+    {
+      "id": 60,
+      "name": "Mutton Pepper Masala",
+      "category": "Mutton",
+      "price": 280,
+      "rating": 4.8,
+      "image": "https://spiceindiaonline.com/wp-content/uploads/2021/09/Mutton-Pepper-Fry-2.jpg",
+      "description": "Spicy mutton masala with a strong black pepper flavor.",
+      "customization": true
+    },
+
+    {
+      "id": 61,
+      "name": "Fish Curry",
+      "category": "Seafood",
+      "price": 220,
+      "rating": 4.8,
+      "image": "https://loremflickr.com/640/480/fish,curry",
+      "description": "Fresh fish cooked in a flavorful Indian spiced gravy.",
+      "customization": true
+    },
+    {
+      "id": 62,
+      "name": "Fish Fry",
+      "category": "Seafood",
+      "price": 200,
+      "rating": 4.8,
+      "image": "https://thetakeiteasychef.com/wp-content/uploads/2017/12/KFF-FI1-Compressed.jpg",
+      "description": "Crispy fried fish marinated with traditional Indian spices.",
+      "customization": true
+    },
+    {
+      "id": 63,
+      "name": "Kerala Fish Curry",
+      "category": "Seafood",
+      "price": 230,
+      "rating": 4.9,
+      "image": "https://allwaysdelicious.com/wp-content/uploads/2022/03/kerala-fish-curry-overhead.jpg",
+      "description": "Kerala-style fish curry prepared with coconut and tamarind.",
+      "customization": true
+    },
+    {
+      "id": 64,
+      "name": "Prawn Masala",
+      "category": "Seafood",
+      "price": 260,
+      "rating": 4.8,
+      "image": "https://theyummydelights.com/wp-content/uploads/2025/06/prawn-masala.jpg",
+      "description": "Juicy prawns cooked with onions, tomatoes and Indian spices.",
+      "customization": true
+    },
+    {
+      "id": 65,
+      "name": "Prawn Fry",
+      "category": "Seafood",
+      "price": 270,
+      "rating": 4.8,
+      "image": "https://loremflickr.com/640/480/prawn,fry",
+      "description": "Crispy prawns marinated with spicy Indian masala.",
+      "customization": true
+    },
+    {
+      "id": 66,
+      "name": "Fish Tikka",
+      "category": "Seafood",
+      "price": 250,
+      "rating": 4.7,
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMSmTZ01rN_b2JOR__pxuvMLxM_GPqt72OTcljw_xhEiBgLUWdgvjC5v4aQ6o0JlGDdqtLMDvya3R1-WhcFhXzFGohwc4CGOka-QjvXnKmNeIkX75WVCHim4vWwm4qMw94_kswpeBmMny8/s1600/Tandoori+Fish+Mackerel+Tandoori4.jpg",
+      "description": "Marinated fish pieces grilled with aromatic tandoori spices.",
+      "customization": true
+    },
+    {
+      "id": 67,
+      "name": "Goan Fish Curry",
+      "category": "Seafood",
+      "price": 240,
+      "rating": 4.8,
+      "image": "https://loremflickr.com/640/480/goan,fish,curry",
+      "description": "Goan-style fish curry prepared with coconut and tangy spices.",
+      "customization": true
+    },
+    {
+      "id": 68,
+      "name": "Fish Molee",
+      "category": "Seafood",
+      "price": 250,
+      "rating": 4.8,
+      "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2014/10/1-6-3.jpg",
+      "description": "Kerala-style fish cooked in a mild creamy coconut gravy.",
+      "customization": true
+    },
+    {
+      "id": 69,
+      "name": "Prawn Curry",
+      "category": "Seafood",
+      "price": 260,
+      "rating": 4.8,
+      "image": "https://foodiesterminal.com/wp-content/uploads/2018/07/prawn-curry-goan-style.jpg",
+      "description": "Tender prawns simmered in a rich Indian curry.",
+      "customization": true
+    },
+    {
+      "id": 70,
+      "name": "Crab Masala",
+      "category": "Seafood",
+      "price": 300,
+      "rating": 4.7,
+      "image": "https://loremflickr.com/640/480/crab,masala",
+      "description": "Fresh crab cooked with aromatic spices and rich masala.",
+      "customization": true
+    },
+
+    {
+      "id": 71,
+      "name": "Paneer Butter Masala",
+      "category": "Vegetarian",
+      "price": 210,
+      "rating": 4.8,
+      "image": "https://www.ruchiskitchen.com/wp-content/uploads/2020/12/Paneer-butter-masala-recipe-3.jpg",
+      "description": "Soft paneer cooked in a creamy tomato and butter gravy.",
+      "customization": true
+    },
+    {
+      "id": 72,
+      "name": "Palak Paneer",
+      "category": "Vegetarian",
+      "price": 190,
+      "rating": 4.7,
+      "image": "https://sarahsvegankitchen.com/wp-content/uploads/2025/01/Palak-Tofu-7.jpg",
+      "description": "Soft paneer cooked in a smooth spinach-based gravy.",
+      "customization": true
+    },
+    {
+      "id": 73,
+      "name": "Chana Masala",
+      "category": "Vegetarian",
+      "price": 150,
+      "rating": 4.6,
+      "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/09/Chana-Masala.jpg",
+      "description": "Chickpeas cooked with tomatoes, onions and aromatic spices.",
+      "customization": true
+    },
+    {
+      "id": 74,
+      "name": "Dal Tadka",
+      "category": "Vegetarian",
+      "price": 140,
+      "rating": 4.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB3gWy7dp2FciZJ6YF-Sh7v9DRm79Y84DjHPfGIFdeHVc_fuARAL8GOEo&s=10",
+      "description": "Yellow lentils finished with a flavorful garlic and spice tempering.",
+      "customization": true
+    },
+    {
+      "id": 75,
+      "name": "Dal Fry",
+      "category": "Vegetarian",
+      "price": 130,
+      "rating": 4.6,
+      "image": "https://madhurasrecipe.com/wp-content/uploads/2020/10/Dal-Fry-Marathi-Recipe.jpg",
+      "description": "Comforting lentil curry cooked with tomatoes and Indian spices.",
+      "customization": true
+    },
+    {
+      "id": 76,
+      "name": "Aloo Gobi",
+      "category": "Vegetarian",
+      "price": 150,
+      "rating": 4.6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhAdGtFXkWS2idxaFrBgv2J60_Fz52eO3N__S8hSNcIhmLlFFI2b7UIm93&s=10",
+      "description": "Potatoes and cauliflower cooked with turmeric and Indian spices.",
+      "customization": true
+    },
+    {
+      "id": 77,
+      "name": "Baingan Bharta",
+      "category": "Vegetarian",
+      "price": 160,
+      "rating": 4.6,
+      "image": "https://sinfullyspicy.com/wp-content/uploads/2024/07/1200-by-1200-images-3.jpg",
+      "description": "Roasted eggplant mashed and cooked with onions and tomatoes.",
+      "customization": true
+    },
+    {
+      "id": 78,
+      "name": "Matar Paneer",
+      "category": "Vegetarian",
+      "price": 190,
+      "rating": 4.7,
+      "image": "https://loremflickr.com/640/480/matar,paneer",
+      "description": "Paneer and green peas cooked in a rich tomato-based gravy.",
+      "customization": true
+    },
+    {
+      "id": 79,
+      "name": "Kadai Paneer",
+      "category": "Vegetarian",
+      "price": 200,
+      "rating": 4.8,
+      "image": "https://i0.wp.com/smithakalluraya.com/wp-content/uploads/2015/06/kadai-paneer-recipe-1.jpg?fit=1500%2C1780&ssl=1",
+      "description": "Paneer cooked with capsicum and freshly ground kadai spices.",
+      "customization": true
+    },
+    {
+      "id": 80,
+      "name": "Vegetable Kurma",
+      "category": "Vegetarian",
+      "price": 180,
+      "rating": 4.6,
+      "image": "https://loremflickr.com/640/480/vegetable,kurma",
+      "description": "Mixed vegetables cooked in a creamy coconut-based gravy.",
+      "customization": true
+    },
+
+    {
+      "id": 81,
+      "name": "Samosa",
+      "category": "Street Food",
+      "price": 60,
+      "rating": 4.8,
+      "image": "https://static.toiimg.com/thumb/61050397.cms?imgsize=246859&width=800&height=800",
+      "description": "Crispy pastry filled with spicy potato and pea stuffing.",
+      "customization": true
+    },
+    {
+      "id": 82,
+      "name": "Pani Puri",
+      "category": "Street Food",
+      "price": 70,
+      "rating": 4.8,
+      "image": "https://loremflickr.com/640/480/pani,puri",
+      "description": "Crispy puris filled with spiced potato, chutney and tangy pani.",
+      "customization": true
+    },
+    {
+      "id": 83,
+      "name": "Vada Pav",
+      "category": "Street Food",
+      "price": 70,
+      "rating": 4.7,
+      "image": "https://loremflickr.com/640/480/vada,pav",
+      "description": "Mumbai-style spicy potato fritter served inside a soft pav.",
+      "customization": true
+    },
+    {
+      "id": 84,
+      "name": "Pav Bhaji",
+      "category": "Street Food",
+      "price": 120,
+      "rating": 4.8,
+      "image": "https://loremflickr.com/640/480/pav,bhaji",
+      "description": "Spiced mashed vegetables served with buttery toasted pav.",
+      "customization": true
+    },
+    {
+      "id": 85,
+      "name": "Bhel Puri",
+      "category": "Street Food",
+      "price": 80,
+      "rating": 4.6,
+      "image": "https://www.awesomecuisine.com/wp-content/uploads/2007/11/bhel-puri.jpg",
+      "description": "Crunchy puffed rice mixed with vegetables and tangy chutneys.",
+      "customization": true
+    },
+    {
+      "id": 86,
+      "name": "Aloo Tikki",
+      "category": "Street Food",
+      "price": 80,
+      "rating": 4.7,
+      "image": "https://sinfullyspicy.com/wp-content/uploads/2023/03/1-1.jpg",
+      "description": "Crispy spiced potato patties served with flavorful chutneys.",
+      "customization": true
+    },
+    {
+      "id": 87,
+      "name": "Dahi Puri",
+      "category": "Street Food",
+      "price": 90,
+      "rating": 4.8,
+      "image": "https://static.toiimg.com/photo/55049443.cms",
+      "description": "Crispy puris topped with yogurt, chutneys and spices.",
+      "customization": true
+    },
+    {
+      "id": 88,
+      "name": "Kachori",
+      "category": "Street Food",
+      "price": 60,
+      "rating": 4.6,
+      "image": "https://holycowvegan.net/wp-content/uploads/2020/10/khasta-kachori-1.jpg",
+      "description": "Crispy Indian pastry filled with spicy lentil stuffing.",
+      "customization": true
+    },
+    {
+      "id": 89,
+      "name": "Paniyaram",
+      "category": "Street Food",
+      "price": 80,
+      "rating": 4.7,
+      "image": "https://loremflickr.com/640/480/paniyaram",
+      "description": "Soft and crispy South Indian snack made from fermented batter.",
+      "customization": true
+    },
+    {
+      "id": 90,
+      "name": "Pakora",
+      "category": "Street Food",
+      "price": 70,
+      "rating": 4.7,
+      "image": "https://loremflickr.com/640/480/pakora",
+      "description": "Crispy vegetable fritters coated in seasoned gram flour batter.",
+      "customization": true
+    },
+
+    {
+      "id": 91,
+      "name": "Gulab Jamun",
+      "category": "Desserts",
+      "price": 90,
+      "rating": 4.9,
+      "image": "https://loremflickr.com/640/480/gulab,jamun",
+      "description": "Soft milk dumplings soaked in sweet aromatic sugar syrup.",
+      "customization": true
+    },
+    {
+      "id": 92,
+      "name": "Rasmalai",
+      "category": "Desserts",
+      "price": 120,
+      "rating": 4.8,
+      "image": "https://loremflickr.com/640/480/rasmalai",
+      "description": "Soft cheese dumplings served in chilled sweetened milk.",
+      "customization": true
+    },
+    {
+      "id": 93,
+      "name": "Jalebi",
+      "category": "Desserts",
+      "price": 80,
+      "rating": 4.8,
+      "image": "https://static.toiimg.com/thumb/53099699.cms?imgsize=182393&width=800&height=800",
+      "description": "Crispy spiral-shaped sweet soaked in fragrant sugar syrup.",
+      "customization": true
+    },
+    {
+      "id": 94,
+      "name": "Kheer",
+      "category": "Desserts",
+      "price": 100,
+      "rating": 4.7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwrPNLxNiMe0jZdfJ6BlxT_aMKGEYg5QcrNjL7mINL8rnxYUMsAqpKRH4&s=10",
+      "description": "Traditional Indian rice pudding cooked with milk and cardamom.",
+      "customization": true
+    },
+    {
+      "id": 95,
+      "name": "Gajar Ka Halwa",
+      "category": "Desserts",
+      "price": 120,
+      "rating": 4.8,
+      "image": "https://loremflickr.com/640/480/gajar,halwa",
+      "description": "Rich carrot dessert cooked with milk, sugar and dry fruits.",
+      "customization": true
+    },
+    {
+      "id": 96,
+      "name": "Rasgulla",
+      "category": "Desserts",
+      "price": 100,
+      "rating": 4.8,
+      "image": "https://i1.zopping.com/zopsmart-media/30255/images/originals/20260422/76a77c2b-af86-4680-9c74-8f66cbf19873-ChatGPTImageApr222026010445PM.webp",
+      "description": "Soft spongy cheese balls soaked in light sugar syrup.",
+      "customization": true
+    },
+    {
+      "id": 97,
+      "name": "Kulfi",
+      "category": "Desserts",
+      "price": 100,
+      "rating": 4.8,
+      "image": "https://c.ndtvimg.com/2022-03/bt1hei5o_kulfi_625x300_14_March_22.jpg",
+      "description": "Traditional Indian frozen dessert made with rich creamy milk.",
+      "customization": true
+    },
+    {
+      "id": 98,
+      "name": "Mysore Pak",
+      "category": "Desserts",
+      "price": 90,
+      "rating": 4.7,
+      "image": "https://pothgaal.com/cdn/shop/files/GheeMysorePak.jpg?v=1748859920&width=1200",
+      "description": "Classic South Indian sweet prepared with gram flour and ghee.",
+      "customization": true
+    },
+    {
+      "id": 99,
+      "name": "Payasam",
+      "category": "Desserts",
+      "price": 90,
+      "rating": 4.8,
+      "image": "https://images.getrecipekit.com/20231006064107-kerala-20special-20payasam.jpg?aspect_ratio=4:3&quality=90&",
+      "description": "Traditional South Indian sweet pudding prepared with milk and jaggery.",
+      "customization": true
+    },
+    {
+      "id": 100,
+      "name": "Motichoor Laddu",
+      "category": "Desserts",
+      "price": 100,
+      "rating": 4.8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP8LrLwAGEGbY3cPOw5daXDT0nz_C5_EBKQNHSsochj17n9YBEOagOFUhQ&s=10",
+      "description": "Delicate Indian ladoos made from tiny gram flour pearls and sugar syrup.",
+      "customization": true
+    }
+  ],
+
+  "offers": [
+    {
+      "id": 1,
+      "title": "20% OFF",
+      "description": "Get 20% off on your first order",
+      "code": "WELCOME20"
+    },
+    {
+      "id": 2,
+      "title": "FREE DELIVERY",
+      "description": "Free delivery on orders above ₹499",
+      "code": "FREE499"
+    },
+    {
+      "id": 3,
+      "title": "₹100 OFF",
+      "description": "Get ₹100 off on orders above ₹799",
+      "code": "SAVE100"
+    },
+    {
+      "id": 4,
+      "title": "WEEKEND SPECIAL",
+      "description": "Get ₹150 off on weekend orders above ₹999",
+      "code": "WEEKEND150"
+    }
+  ],
+
+  "customization": {
+    "spiceLevels": [
+      "No Spice",
+      "Mild",
+      "Medium",
+      "Spicy",
+      "Extra Spicy"
+    ],
+
+    "removeIngredients": [
+      "Ajinomoto",
+      "Capsicum",
+      "Onion",
+      "Garlic",
+      "Coriander",
+      "Extra Salt",
+      "Green Chilli",
+      "Ginger",
+      "Curry Leaves"
+    ],
+
+    "extraItems": [
+      {
+        "name": "Extra Egg",
+        "price": 30
+      },
+      {
+        "name": "Extra Chicken",
+        "price": 60
+      },
+      {
+        "name": "Extra Mutton",
+        "price": 80
+      },
+      {
+        "name": "Extra Paneer",
+        "price": 50
+      },
+      {
+        "name": "Extra Cheese",
+        "price": 40
+      },
+      {
+        "name": "Extra Gravy",
+        "price": 30
+      },
+      {
+        "name": "Extra Rice",
+        "price": 40
+      },
+      {
+        "name": "Extra Sambar",
+        "price": 25
+      },
+      
+      {
+        "name": "Extra Chutney",
+        "price": 20
+      },
+      {
+        "name": "Extra Chicken 65",
+        "price": 70
+      }
+    ]
+  }
+}
