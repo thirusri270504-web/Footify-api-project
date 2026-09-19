@@ -83,10 +83,10 @@ function OrderFeedback({ lastOrder, setOrders, orders }) {
     };
 
     // EmailJS configuration
-    const SERVICE_ID = "service_mnw0u8l";
-    const USER_TEMPLATE_ID = "template_xmjsah6";
-    const ADMIN_TEMPLATE_ID = "template_hxw7abj";
-    const PUBLIC_KEY = "qiMhOY9JjpLLoO8sf";
+    const SERVICE_ID = "service_9r7dw8n";
+    const USER_TEMPLATE_ID = "template_pxvk1or";
+    const ADMIN_TEMPLATE_ID = "template_0wre3mk";
+    const PUBLIC_KEY = "w49uQJUhvnf1AvhmV";
 
     try {
       // Send email to customer
